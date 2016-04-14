@@ -1,0 +1,28 @@
+name: www.wildwildwestcalgary.com
+favicon: null
+layout_spectrum: 0.2435772584285587
+typography_spectrum: 0.8263959120959044
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7975342813879251
+  lightness: 0.7135861942078918
+  saturation: 0.017600411316379905
+  rhythmicContrast: 0.4050388454925269
+purpose: []
